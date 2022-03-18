@@ -41,12 +41,12 @@
     justify-content: center;
     background-color: var(--bg-color);
 }
-.carrossel-titulo{
+.container-titulo{
     font-family: var(--font-family);
     color: var(--texto-color);
  
 }
-.carrossel-subtitulo{
+.container-subtitulo{
     font-family: var(--font-family);
     color: var(--subtitulo-color);
 }
